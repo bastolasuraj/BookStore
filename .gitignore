@@ -1,0 +1,7 @@
+backend/node_modules
+.git
+.idea
+.DS_Store
+BookStore
+Bookstore.pub
+575a72f6563fabdbbe66af3f262b1283fc35f4e2
