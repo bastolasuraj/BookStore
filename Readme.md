@@ -8,4 +8,3 @@ Created in Nodejs, Expressjs, Reactjs and MongoDB
     - `ACCESS_TOKEN: "CUSTOM ACCESS TOKEN",`
     - `REFRESH_TOKEN: "CUSTOM REFRESH TOKEN",`
     - `ACCESS_EXPIRY:"1d",`
-`}`
