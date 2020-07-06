@@ -4,7 +4,7 @@ backend/node_modules
 .DS_Store
 BookStore
 Bookstore.pub
-backend/src/config
+backend/src/config/index.js
 #575a72f6563fabdbbe66af3f262b1283fc35f4e2
 
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
